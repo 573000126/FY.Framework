@@ -1,5 +1,5 @@
-## A .Net Framework used for building Web Site, including Three-tier architecture and other Utilities.
+### A .Net Framework used for building Web Site
 ---
 
-#### ËµÃ÷
-¼Ü¹¹
+#### è¯´æ˜Ž
+æž¶æž„
