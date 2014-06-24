@@ -1,6 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CC2D5F1E-4D96-46B3-94C0-8A966E91E5B3}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FY.Framework.DataAccess", "FY.Framework.DataAccess\FY.Framework.DataAccess.csproj", "{222B2383-743E-4983-B716-DA433A166247}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FY.Framework.BLL", "FY.Framework.BLL\FY.Framework.BLL.csproj", "{E58647CB-5B91-43DC-920D-2366863B2C04}"
@@ -10,11 +15,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FY.Framework.Common", "FY.Framework.Common\FY.Framework.Common.csproj", "{1E21EEA9-0916-4F82-9A6B-33B29C54E50C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FY.Framework.Entity", "FY.Framework.Entity\FY.Framework.Entity.csproj", "{6479D14B-5448-40B1-82C6-31932B565687}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CC2D5F1E-4D96-46B3-94C0-8A966E91E5B3}"
-	ProjectSection(SolutionItems) = preProject
-		README.md = README.md
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
