@@ -2,9 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CC2D5F1E-4D96-46B3-94C0-8A966E91E5B3}"
-	ProjectSection(SolutionItems) = preProject
-		README.md = README.md
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FY.Framework.DataAccess", "FY.Framework.DataAccess\FY.Framework.DataAccess.csproj", "{222B2383-743E-4983-B716-DA433A166247}"
 EndProject
