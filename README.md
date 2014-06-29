@@ -1,13 +1,13 @@
 ### A .Net Framework used for building Web Site
 ---
 
-### 说明
+## 说明
 
 * 三层架构
 
 1. 数据访问层 DataAccess
 2. 业务逻辑层 BLL
-3. UI展示层 Web
+3. 界面展示层 Web
 
 * 其他
 
